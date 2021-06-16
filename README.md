@@ -6,8 +6,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lari-C++" height="30" width="40" src="https://image.flaticon.com/icons/png/512/1822/1822877.png">
-  <img align="center" alt="Lari-Java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
+  <img align="center" alt="Lari-C++" height="30" width="40" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg">
+  <img align="center" alt="Lari-Java" height="30" width="40" src="https://img-premium.flaticon.com/png/512/644/premium/644650.png?token=exp=1623803097~hmac=834dd7fb3498391f0f7280bcbf68f35d">
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lari-cat" src="https://1.bp.blogspot.com/-6AYOlKIRAns/WYiZ8lGfICI/AAAAAAAABTk/c6fzq1mX274z6P6eqE8oYipgTSllHeJ4ACLcBGAs/s1600/programando.gif">
