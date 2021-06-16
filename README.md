@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lari-C++" height="30" width="40" src="https://image.flaticon.com/icons/png/512/1628/1628181.png">
+  <img align="center" alt="Lari-C++" height="30" width="40" src="https://img-premium.flaticon.com/png/512/4260/premium/4260961.png?token=exp=1623803602~hmac=696ed78e26ce442ef047915c20ab1820">
   <img align="center" alt="Lari-Java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
